@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Blog",
+    "name": "Furina Blogs",
+    "link": "https://yanxinchenji.github.io/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "阿里云盘",
+    "link": "https://www.alipan.com"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "冈易音乐",
+    "link": "https://music.163.com/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://limestart.cn/"
+  },
+  {
+    "icon": "Book",
+    "name": "文心一言",
+    "link": "https://yiyan.baidu.com/"
+  },
+  {
+    "icon": "Fire",
+    "name": "CSDN",
+    "link": "https://blog.csdn.net/"
+  }
+]
